@@ -1,0 +1,1498 @@
+{
+  "jan": [
+    {
+      "date": 1,
+      "weekday": "sat",
+      "holiday": "New Year"
+    },
+    {
+      "date": 2,
+      "weekday": "sun"
+    },
+    {
+      "date": 3,
+      "weekday": "mon"
+    },
+    {
+      "date": 4,
+      "weekday": "tue"
+    },
+    {
+      "date": 5,
+      "weekday": "wed"
+    },
+    {
+      "date": 6,
+      "weekday": "thu"
+    },
+    {
+      "date": 7,
+      "weekday": "fri"
+    },
+    {
+      "date": 8,
+      "weekday": "sat"
+    },
+    {
+      "date": 9,
+      "weekday": "sun"
+    },
+    {
+      "date": 10,
+      "weekday": "mon"
+    },
+    {
+      "date": 11,
+      "weekday": "tue"
+    },
+    {
+      "date": 12,
+      "weekday": "wed"
+    },
+    {
+      "date": 13,
+      "weekday": "thu"
+    },
+    {
+      "date": 14,
+      "weekday": "fri"
+    },
+    {
+      "date": 15,
+      "weekday": "sat"
+    },
+    {
+      "date": 16,
+      "weekday": "sun"
+    },
+    {
+      "date": 17,
+      "weekday": "mon"
+    },
+    {
+      "date": 18,
+      "weekday": "tue"
+    },
+    {
+      "date": 19,
+      "weekday": "wed"
+    },
+    {
+      "date": 20,
+      "weekday": "thu"
+    },
+    {
+      "date": 21,
+      "weekday": "fri"
+    },
+    {
+      "date": 22,
+      "weekday": "sat"
+    },
+    {
+      "date": 23,
+      "weekday": "sun"
+    },
+    {
+      "date": 24,
+      "weekday": "mon"
+    },
+    {
+      "date": 25,
+      "weekday": "tue"
+    },
+    {
+      "date": 26,
+      "weekday": "wed"
+    },
+    {
+      "date": 27,
+      "weekday": "thu"
+    },
+    {
+      "date": 28,
+      "weekday": "fri"
+    },
+    {
+      "date": 29,
+      "weekday": "sat"
+    },
+    {
+      "date": 30,
+      "weekday": "sun"
+    },
+    {
+      "date": 31,
+      "weekday": "mon"
+    }
+  ],
+  "feb": [
+    {
+      "date": 1,
+      "weekday": "tue"
+    },
+    {
+      "date": 2,
+      "weekday": "wed"
+    },
+    {
+      "date": 3,
+      "weekday": "thu"
+    },
+    {
+      "date": 4,
+      "weekday": "fri"
+    },
+    {
+      "date": 5,
+      "weekday": "sat"
+    },
+    {
+      "date": 6,
+      "weekday": "sun"
+    },
+    {
+      "date": 7,
+      "weekday": "mon"
+    },
+    {
+      "date": 8,
+      "weekday": "tue"
+    },
+    {
+      "date": 9,
+      "weekday": "wed"
+    },
+    {
+      "date": 10,
+      "weekday": "thu"
+    },
+    {
+      "date": 11,
+      "weekday": "fri"
+    },
+    {
+      "date": 12,
+      "weekday": "sat"
+    },
+    {
+      "date": 13,
+      "weekday": "sun"
+    },
+    {
+      "date": 14,
+      "weekday": "mon"
+    },
+    {
+      "date": 15,
+      "weekday": "tue"
+    },
+    {
+      "date": 16,
+      "weekday": "wed"
+    },
+    {
+      "date": 17,
+      "weekday": "thu"
+    },
+    {
+      "date": 18,
+      "weekday": "fri"
+    },
+    {
+      "date": 19,
+      "weekday": "sat"
+    },
+    {
+      "date": 20,
+      "weekday": "sun"
+    },
+    {
+      "date": 21,
+      "weekday": "mon"
+    },
+    {
+      "date": 22,
+      "weekday": "tue"
+    },
+    {
+      "date": 23,
+      "weekday": "wed"
+    },
+    {
+      "date": 24,
+      "weekday": "thu"
+    },
+    {
+      "date": 25,
+      "weekday": "fri"
+    },
+    {
+      "date": 26,
+      "weekday": "sat"
+    },
+    {
+      "date": 27,
+      "weekday": "sun"
+    },
+    {
+      "date": 28,
+      "weekday": "mon"
+    }
+  ],
+  "mar": [
+    {
+      "date": 1,
+      "weekday": "tue"
+    },
+    {
+      "date": 2,
+      "weekday": "wed"
+    },
+    {
+      "date": 3,
+      "weekday": "thu"
+    },
+    {
+      "date": 4,
+      "weekday": "fri"
+    },
+    {
+      "date": 5,
+      "weekday": "sat"
+    },
+    {
+      "date": 6,
+      "weekday": "sun"
+    },
+    {
+      "date": 7,
+      "weekday": "mon"
+    },
+    {
+      "date": 8,
+      "weekday": "tue"
+    },
+    {
+      "date": 9,
+      "weekday": "wed"
+    },
+    {
+      "date": 10,
+      "weekday": "thu"
+    },
+    {
+      "date": 11,
+      "weekday": "fri"
+    },
+    {
+      "date": 12,
+      "weekday": "sat"
+    },
+    {
+      "date": 13,
+      "weekday": "sun"
+    },
+    {
+      "date": 14,
+      "weekday": "mon"
+    },
+    {
+      "date": 15,
+      "weekday": "tue"
+    },
+    {
+      "date": 16,
+      "weekday": "wed"
+    },
+    {
+      "date": 17,
+      "weekday": "thu"
+    },
+    {
+      "date": 18,
+      "weekday": "fri"
+    },
+    {
+      "date": 19,
+      "weekday": "sat"
+    },
+    {
+      "date": 20,
+      "weekday": "sun"
+    },
+    {
+      "date": 21,
+      "weekday": "mon"
+    },
+    {
+      "date": 22,
+      "weekday": "tue"
+    },
+    {
+      "date": 23,
+      "weekday": "wed"
+    },
+    {
+      "date": 24,
+      "weekday": "thu"
+    },
+    {
+      "date": 25,
+      "weekday": "fri"
+    },
+    {
+      "date": 26,
+      "weekday": "sat"
+    },
+    {
+      "date": 27,
+      "weekday": "sun"
+    },
+    {
+      "date": 28,
+      "weekday": "mon"
+    },
+    {
+      "date": 29,
+      "weekday": "tue"
+    },
+    {
+      "date": 30,
+      "weekday": "wed"
+    },
+    {
+      "date": 31,
+      "weekday": "thu"
+    }
+  ],
+  "apr": [
+    {
+      "date": 1,
+      "weekday": "fri"
+    },
+    {
+      "date": 2,
+      "weekday": "sat"
+    },
+    {
+      "date": 3,
+      "weekday": "sun"
+    },
+    {
+      "date": 4,
+      "weekday": "mon"
+    },
+    {
+      "date": 5,
+      "weekday": "tue"
+    },
+    {
+      "date": 6,
+      "weekday": "wed"
+    },
+    {
+      "date": 7,
+      "weekday": "thu"
+    },
+    {
+      "date": 8,
+      "weekday": "fri"
+    },
+    {
+      "date": 9,
+      "weekday": "sat"
+    },
+    {
+      "date": 10,
+      "weekday": "sun"
+    },
+    {
+      "date": 11,
+      "weekday": "mon"
+    },
+    {
+      "date": 12,
+      "weekday": "tue"
+    },
+    {
+      "date": 13,
+      "weekday": "wed"
+    },
+    {
+      "date": 14,
+      "weekday": "thu"
+    },
+    {
+      "date": 15,
+      "weekday": "fri",
+      "holiday": "Good Friday"
+    },
+    {
+      "date": 16,
+      "weekday": "sat"
+    },
+    {
+      "date": 17,
+      "weekday": "sun"
+    },
+    {
+      "date": 18,
+      "weekday": "mon",
+      "holiday": "Easter Monday"
+    },
+    {
+      "date": 19,
+      "weekday": "tue"
+    },
+    {
+      "date": 20,
+      "weekday": "wed"
+    },
+    {
+      "date": 21,
+      "weekday": "thu"
+    },
+    {
+      "date": 22,
+      "weekday": "fri"
+    },
+    {
+      "date": 23,
+      "weekday": "sat"
+    },
+    {
+      "date": 24,
+      "weekday": "sun"
+    },
+    {
+      "date": 25,
+      "weekday": "mon"
+    },
+    {
+      "date": 26,
+      "weekday": "tue"
+    },
+    {
+      "date": 27,
+      "weekday": "wed"
+    },
+    {
+      "date": 28,
+      "weekday": "thu"
+    },
+    {
+      "date": 29,
+      "weekday": "fri"
+    },
+    {
+      "date": 30,
+      "weekday": "sat"
+    }
+  ],
+  "may": [
+    {
+      "date": 1,
+      "weekday": "sun"
+    },
+    {
+      "date": 2,
+      "weekday": "mon"
+    },
+    {
+      "date": 3,
+      "weekday": "tue"
+    },
+    {
+      "date": 4,
+      "weekday": "wed"
+    },
+    {
+      "date": 5,
+      "weekday": "thu"
+    },
+    {
+      "date": 6,
+      "weekday": "fri"
+    },
+    {
+      "date": 7,
+      "weekday": "sat"
+    },
+    {
+      "date": 8,
+      "weekday": "sun"
+    },
+    {
+      "date": 9,
+      "weekday": "mon"
+    },
+    {
+      "date": 10,
+      "weekday": "tue"
+    },
+    {
+      "date": 11,
+      "weekday": "wed"
+    },
+    {
+      "date": 12,
+      "weekday": "thu"
+    },
+    {
+      "date": 13,
+      "weekday": "fri"
+    },
+    {
+      "date": 14,
+      "weekday": "sat"
+    },
+    {
+      "date": 15,
+      "weekday": "sun"
+    },
+    {
+      "date": 16,
+      "weekday": "mon"
+    },
+    {
+      "date": 17,
+      "weekday": "tue"
+    },
+    {
+      "date": 18,
+      "weekday": "wed"
+    },
+    {
+      "date": 19,
+      "weekday": "thu"
+    },
+    {
+      "date": 20,
+      "weekday": "fri"
+    },
+    {
+      "date": 21,
+      "weekday": "sat"
+    },
+    {
+      "date": 22,
+      "weekday": "sun"
+    },
+    {
+      "date": 23,
+      "weekday": "mon",
+      "holiday": "Victoria Day"
+    },
+    {
+      "date": 24,
+      "weekday": "tue"
+    },
+    {
+      "date": 25,
+      "weekday": "wed"
+    },
+    {
+      "date": 26,
+      "weekday": "thu"
+    },
+    {
+      "date": 27,
+      "weekday": "fri"
+    },
+    {
+      "date": 28,
+      "weekday": "sat"
+    },
+    {
+      "date": 29,
+      "weekday": "sun"
+    },
+    {
+      "date": 30,
+      "weekday": "mon"
+    },
+    {
+      "date": 31,
+      "weekday": "tue"
+    }
+  ],
+  "jun": [
+    {
+      "date": 1,
+      "weekday": "wed"
+    },
+    {
+      "date": 2,
+      "weekday": "thu"
+    },
+    {
+      "date": 3,
+      "weekday": "fri"
+    },
+    {
+      "date": 4,
+      "weekday": "sat"
+    },
+    {
+      "date": 5,
+      "weekday": "sun"
+    },
+    {
+      "date": 6,
+      "weekday": "mon"
+    },
+    {
+      "date": 7,
+      "weekday": "tue"
+    },
+    {
+      "date": 8,
+      "weekday": "wed"
+    },
+    {
+      "date": 9,
+      "weekday": "thu"
+    },
+    {
+      "date": 10,
+      "weekday": "fri"
+    },
+    {
+      "date": 11,
+      "weekday": "sat"
+    },
+    {
+      "date": 12,
+      "weekday": "sun"
+    },
+    {
+      "date": 13,
+      "weekday": "mon"
+    },
+    {
+      "date": 14,
+      "weekday": "tue"
+    },
+    {
+      "date": 15,
+      "weekday": "wed"
+    },
+    {
+      "date": 16,
+      "weekday": "thu"
+    },
+    {
+      "date": 17,
+      "weekday": "fri"
+    },
+    {
+      "date": 18,
+      "weekday": "sat"
+    },
+    {
+      "date": 19,
+      "weekday": "sun"
+    },
+    {
+      "date": 20,
+      "weekday": "mon"
+    },
+    {
+      "date": 21,
+      "weekday": "tue"
+    },
+    {
+      "date": 22,
+      "weekday": "wed"
+    },
+    {
+      "date": 23,
+      "weekday": "thu"
+    },
+    {
+      "date": 24,
+      "weekday": "fri"
+    },
+    {
+      "date": 25,
+      "weekday": "sat"
+    },
+    {
+      "date": 26,
+      "weekday": "sun"
+    },
+    {
+      "date": 27,
+      "weekday": "mon"
+    },
+    {
+      "date": 28,
+      "weekday": "tue"
+    },
+    {
+      "date": 29,
+      "weekday": "wed"
+    },
+    {
+      "date": 30,
+      "weekday": "thu"
+    }
+  ],
+  "jul": [
+    {
+      "date": 1,
+      "weekday": "fri",
+      "holiday": "Canada Day"
+    },
+    {
+      "date": 2,
+      "weekday": "sat"
+    },
+    {
+      "date": 3,
+      "weekday": "sun"
+    },
+    {
+      "date": 4,
+      "weekday": "mon"
+    },
+    {
+      "date": 5,
+      "weekday": "tue"
+    },
+    {
+      "date": 6,
+      "weekday": "wed"
+    },
+    {
+      "date": 7,
+      "weekday": "thu"
+    },
+    {
+      "date": 8,
+      "weekday": "fri"
+    },
+    {
+      "date": 9,
+      "weekday": "sat"
+    },
+    {
+      "date": 10,
+      "weekday": "sun"
+    },
+    {
+      "date": 11,
+      "weekday": "mon"
+    },
+    {
+      "date": 12,
+      "weekday": "tue"
+    },
+    {
+      "date": 13,
+      "weekday": "wed"
+    },
+    {
+      "date": 14,
+      "weekday": "thu"
+    },
+    {
+      "date": 15,
+      "weekday": "fri"
+    },
+    {
+      "date": 16,
+      "weekday": "sat"
+    },
+    {
+      "date": 17,
+      "weekday": "sun"
+    },
+    {
+      "date": 18,
+      "weekday": "mon"
+    },
+    {
+      "date": 19,
+      "weekday": "tue"
+    },
+    {
+      "date": 20,
+      "weekday": "wed"
+    },
+    {
+      "date": 21,
+      "weekday": "thu"
+    },
+    {
+      "date": 22,
+      "weekday": "fri"
+    },
+    {
+      "date": 23,
+      "weekday": "sat"
+    },
+    {
+      "date": 24,
+      "weekday": "sun"
+    },
+    {
+      "date": 25,
+      "weekday": "mon"
+    },
+    {
+      "date": 26,
+      "weekday": "tue"
+    },
+    {
+      "date": 27,
+      "weekday": "wed"
+    },
+    {
+      "date": 28,
+      "weekday": "thu"
+    },
+    {
+      "date": 29,
+      "weekday": "fri"
+    },
+    {
+      "date": 30,
+      "weekday": "sat"
+    },
+    {
+      "date": 31,
+      "weekday": "sun"
+    }
+  ],
+  "aug": [
+    {
+      "date": 1,
+      "weekday": "mon",
+      "holiday": "Civic Holiday"
+    },
+    {
+      "date": 2,
+      "weekday": "tue"
+    },
+    {
+      "date": 3,
+      "weekday": "wed"
+    },
+    {
+      "date": 4,
+      "weekday": "thu"
+    },
+    {
+      "date": 5,
+      "weekday": "fri"
+    },
+    {
+      "date": 6,
+      "weekday": "sat"
+    },
+    {
+      "date": 7,
+      "weekday": "sun"
+    },
+    {
+      "date": 8,
+      "weekday": "mon"
+    },
+    {
+      "date": 9,
+      "weekday": "tue"
+    },
+    {
+      "date": 10,
+      "weekday": "wed"
+    },
+    {
+      "date": 11,
+      "weekday": "thu"
+    },
+    {
+      "date": 12,
+      "weekday": "fri"
+    },
+    {
+      "date": 13,
+      "weekday": "sat"
+    },
+    {
+      "date": 14,
+      "weekday": "sun"
+    },
+    {
+      "date": 15,
+      "weekday": "mon"
+    },
+    {
+      "date": 16,
+      "weekday": "tue"
+    },
+    {
+      "date": 17,
+      "weekday": "wed"
+    },
+    {
+      "date": 18,
+      "weekday": "thu"
+    },
+    {
+      "date": 19,
+      "weekday": "fri"
+    },
+    {
+      "date": 20,
+      "weekday": "sat"
+    },
+    {
+      "date": 21,
+      "weekday": "sun"
+    },
+    {
+      "date": 22,
+      "weekday": "mon"
+    },
+    {
+      "date": 23,
+      "weekday": "tue"
+    },
+    {
+      "date": 24,
+      "weekday": "wed"
+    },
+    {
+      "date": 25,
+      "weekday": "thu"
+    },
+    {
+      "date": 26,
+      "weekday": "fri"
+    },
+    {
+      "date": 27,
+      "weekday": "sat"
+    },
+    {
+      "date": 28,
+      "weekday": "sun"
+    },
+    {
+      "date": 29,
+      "weekday": "mon"
+    },
+    {
+      "date": 30,
+      "weekday": "tue"
+    },
+    {
+      "date": 31,
+      "weekday": "wed"
+    }
+  ],
+  "sep": [
+    {
+      "date": 1,
+      "weekday": "thu"
+    },
+    {
+      "date": 2,
+      "weekday": "fri"
+    },
+    {
+      "date": 3,
+      "weekday": "sat"
+    },
+    {
+      "date": 4,
+      "weekday": "sun"
+    },
+    {
+      "date": 5,
+      "weekday": "mon",
+      "holiday": "Labour Day"
+    },
+    {
+      "date": 6,
+      "weekday": "tue"
+    },
+    {
+      "date": 7,
+      "weekday": "wed"
+    },
+    {
+      "date": 8,
+      "weekday": "thu"
+    },
+    {
+      "date": 9,
+      "weekday": "fri"
+    },
+    {
+      "date": 10,
+      "weekday": "sat"
+    },
+    {
+      "date": 11,
+      "weekday": "sun"
+    },
+    {
+      "date": 12,
+      "weekday": "mon"
+    },
+    {
+      "date": 13,
+      "weekday": "tue"
+    },
+    {
+      "date": 14,
+      "weekday": "wed"
+    },
+    {
+      "date": 15,
+      "weekday": "thu"
+    },
+    {
+      "date": 16,
+      "weekday": "fri"
+    },
+    {
+      "date": 17,
+      "weekday": "sat"
+    },
+    {
+      "date": 18,
+      "weekday": "sun"
+    },
+    {
+      "date": 19,
+      "weekday": "mon"
+    },
+    {
+      "date": 20,
+      "weekday": "tue"
+    },
+    {
+      "date": 21,
+      "weekday": "wed"
+    },
+    {
+      "date": 22,
+      "weekday": "thu"
+    },
+    {
+      "date": 23,
+      "weekday": "fri"
+    },
+    {
+      "date": 24,
+      "weekday": "sat"
+    },
+    {
+      "date": 25,
+      "weekday": "sun"
+    },
+    {
+      "date": 26,
+      "weekday": "mon"
+    },
+    {
+      "date": 27,
+      "weekday": "tue"
+    },
+    {
+      "date": 28,
+      "weekday": "wed"
+    },
+    {
+      "date": 29,
+      "weekday": "thu"
+    },
+    {
+      "date": 30,
+      "weekday": "fri",
+      "holiday": "National Day for Truth and Reconciliation"
+    }
+  ],
+  "oct": [
+    {
+      "date": 1,
+      "weekday": "sat"
+    },
+    {
+      "date": 2,
+      "weekday": "sun"
+    },
+    {
+      "date": 3,
+      "weekday": "mon"
+    },
+    {
+      "date": 4,
+      "weekday": "tue"
+    },
+    {
+      "date": 5,
+      "weekday": "wed"
+    },
+    {
+      "date": 6,
+      "weekday": "thu"
+    },
+    {
+      "date": 7,
+      "weekday": "fri"
+    },
+    {
+      "date": 8,
+      "weekday": "sat"
+    },
+    {
+      "date": 9,
+      "weekday": "sun"
+    },
+    {
+      "date": 10,
+      "weekday": "mon",
+      "holiday": "Thanksgiving Day"
+    },
+    {
+      "date": 11,
+      "weekday": "tue"
+    },
+    {
+      "date": 12,
+      "weekday": "wed"
+    },
+    {
+      "date": 13,
+      "weekday": "thu"
+    },
+    {
+      "date": 14,
+      "weekday": "fri"
+    },
+    {
+      "date": 15,
+      "weekday": "sat"
+    },
+    {
+      "date": 16,
+      "weekday": "sun"
+    },
+    {
+      "date": 17,
+      "weekday": "mon"
+    },
+    {
+      "date": 18,
+      "weekday": "tue"
+    },
+    {
+      "date": 19,
+      "weekday": "wed"
+    },
+    {
+      "date": 20,
+      "weekday": "thu"
+    },
+    {
+      "date": 21,
+      "weekday": "fri"
+    },
+    {
+      "date": 22,
+      "weekday": "sat"
+    },
+    {
+      "date": 23,
+      "weekday": "sun"
+    },
+    {
+      "date": 24,
+      "weekday": "mon"
+    },
+    {
+      "date": 25,
+      "weekday": "tue"
+    },
+    {
+      "date": 26,
+      "weekday": "wed"
+    },
+    {
+      "date": 27,
+      "weekday": "thu"
+    },
+    {
+      "date": 28,
+      "weekday": "fri"
+    },
+    {
+      "date": 29,
+      "weekday": "sat"
+    },
+    {
+      "date": 30,
+      "weekday": "sun"
+    },
+    {
+      "date": 31,
+      "weekday": "mon"
+    }
+  ],
+  "nov": [
+    {
+      "date": 1,
+      "weekday": "tue"
+    },
+    {
+      "date": 2,
+      "weekday": "wed"
+    },
+    {
+      "date": 3,
+      "weekday": "thu"
+    },
+    {
+      "date": 4,
+      "weekday": "fri"
+    },
+    {
+      "date": 5,
+      "weekday": "sat"
+    },
+    {
+      "date": 6,
+      "weekday": "sun"
+    },
+    {
+      "date": 7,
+      "weekday": "mon"
+    },
+    {
+      "date": 8,
+      "weekday": "tue"
+    },
+    {
+      "date": 9,
+      "weekday": "wed"
+    },
+    {
+      "date": 10,
+      "weekday": "thu"
+    },
+    {
+      "date": 11,
+      "weekday": "fri",
+      "holiday": "Remembrance Day"
+    },
+    {
+      "date": 12,
+      "weekday": "sat"
+    },
+    {
+      "date": 13,
+      "weekday": "sun"
+    },
+    {
+      "date": 14,
+      "weekday": "mon"
+    },
+    {
+      "date": 15,
+      "weekday": "tue"
+    },
+    {
+      "date": 16,
+      "weekday": "wed"
+    },
+    {
+      "date": 17,
+      "weekday": "thu"
+    },
+    {
+      "date": 18,
+      "weekday": "fri"
+    },
+    {
+      "date": 19,
+      "weekday": "sat"
+    },
+    {
+      "date": 20,
+      "weekday": "sun"
+    },
+    {
+      "date": 21,
+      "weekday": "mon"
+    },
+    {
+      "date": 22,
+      "weekday": "tue"
+    },
+    {
+      "date": 23,
+      "weekday": "wed"
+    },
+    {
+      "date": 24,
+      "weekday": "thu"
+    },
+    {
+      "date": 25,
+      "weekday": "fri"
+    },
+    {
+      "date": 26,
+      "weekday": "sat"
+    },
+    {
+      "date": 27,
+      "weekday": "sun"
+    },
+    {
+      "date": 28,
+      "weekday": "mon"
+    },
+    {
+      "date": 29,
+      "weekday": "tue"
+    },
+    {
+      "date": 30,
+      "weekday": "wed"
+    }
+  ],
+  "dec": [
+    {
+      "date": 1,
+      "weekday": "thu"
+    },
+    {
+      "date": 2,
+      "weekday": "fri"
+    },
+    {
+      "date": 3,
+      "weekday": "sat"
+    },
+    {
+      "date": 4,
+      "weekday": "sun"
+    },
+    {
+      "date": 5,
+      "weekday": "mon"
+    },
+    {
+      "date": 6,
+      "weekday": "tue"
+    },
+    {
+      "date": 7,
+      "weekday": "wed"
+    },
+    {
+      "date": 8,
+      "weekday": "thu"
+    },
+    {
+      "date": 9,
+      "weekday": "fri"
+    },
+    {
+      "date": 10,
+      "weekday": "sat"
+    },
+    {
+      "date": 11,
+      "weekday": "sun"
+    },
+    {
+      "date": 12,
+      "weekday": "mon"
+    },
+    {
+      "date": 13,
+      "weekday": "tue"
+    },
+    {
+      "date": 14,
+      "weekday": "wed"
+    },
+    {
+      "date": 15,
+      "weekday": "thu"
+    },
+    {
+      "date": 16,
+      "weekday": "fri"
+    },
+    {
+      "date": 17,
+      "weekday": "sat"
+    },
+    {
+      "date": 18,
+      "weekday": "sun"
+    },
+    {
+      "date": 19,
+      "weekday": "mon"
+    },
+    {
+      "date": 20,
+      "weekday": "tue"
+    },
+    {
+      "date": 21,
+      "weekday": "wed"
+    },
+    {
+      "date": 22,
+      "weekday": "thu"
+    },
+    {
+      "date": 23,
+      "weekday": "fri"
+    },
+    {
+      "date": 24,
+      "weekday": "sat"
+    },
+    {
+      "date": 25,
+      "weekday": "sun",
+      "holiday": "Christmas Day"
+    },
+    {
+      "date": 26,
+      "weekday": "mon",
+      "holiday": "Boxing Day"
+    },
+    {
+      "date": 27,
+      "weekday": "tue"
+    },
+    {
+      "date": 28,
+      "weekday": "wed"
+    },
+    {
+      "date": 29,
+      "weekday": "thu"
+    },
+    {
+      "date": 30,
+      "weekday": "fri"
+    },
+    {
+      "date": 31,
+      "weekday": "sat"
+    }
+  ]
+}
